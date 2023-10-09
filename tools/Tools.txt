@@ -1,0 +1,7 @@
+Name							Description
+
+fastgithub_linux-x64.zip  					Accelerated network access
+
+gcc-arm-9.2-2019.12-x86_64-arm-none-linux-gnueabihf.tar.xz		Compile tool chain
+
+stm32wrapper4dbg-master.zip					Compile patch
